@@ -28,7 +28,7 @@ const getUsuario = async () => {
       return usuarioRecuperado;
     }
   } catch (e) {
-    // error reading value
+    //
   }
 };
 
